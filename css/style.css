@@ -18,5 +18,16 @@
 
 .collapse-row {
     padding: 50px 100px;
+}
 
+.carousel-row {
+    padding: 50px 100px;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.logo {
+    float: left;
 }
